@@ -1,0 +1,13 @@
+{
+    "content": [
+      {
+        "html": "Hello World!",
+        "focal": false,
+        "inset": false,
+        "elementType": "html"
+      }
+    ],
+    "metadata": {
+      "version": "1"
+    }
+  }
